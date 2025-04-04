@@ -18,7 +18,7 @@ This Python-based Phishing Link Scanner is a simple yet effective tool designed 
    - sudo apt install python3 python3-pip -y
 3. Create the Python Script by using text editor
    - nano phishing_scanner.py
-   - Paste the code (Phishinb_scanner.py)
+   - Paste the code (Phishing_scanner.py)
    - Save the file
 4. Install Required Python Package
    - python3 phishing_scanner.py
